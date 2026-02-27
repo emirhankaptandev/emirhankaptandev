@@ -59,14 +59,6 @@ Tech: Tailwind CSS, JavaScript
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 📧 emirhankptn09@gmail.com  
