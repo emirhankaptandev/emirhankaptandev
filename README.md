@@ -7,7 +7,7 @@
 
 I'm an Information Technologies student interested in web development.
 
-I enjoy building responsive web applications and improving my skills by working on real projects. Currently, I mainly develop projects using HTML, CSS, JavaScript and PHP, while continuing to learn new technologies.
+I enjoy building responsive web applications and improving my skills by working on real projects. Currently, I mainly develop projects using HTML, CSS, JavaScript, PHP and SQL, while continuing to learn new technologies.
 
 ---
 
@@ -15,11 +15,10 @@ I enjoy building responsive web applications and improving my skills by working 
 
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 - PHP
 - SQL
 - Tailwind CSS
-- Git & GitHub
 
 ---
 
