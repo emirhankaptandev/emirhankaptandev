@@ -1,65 +1,52 @@
 <h1 align="center">Hi 👋, I'm Emirhan Kaptan</h1>
-<h3 align="center">Frontend Developer Intern | Istanbul, Turkey</h3>
+<h3 align="center">Information Technologies Student | Web Developer</h3>
 
 ---
 
 ## 🚀 About Me
 
-Frontend-focused developer building responsive and user-friendly web interfaces.
+I'm an Information Technologies student interested in web development.
 
-Currently:
-- Working on a freelance corporate website project
-- Improving JavaScript fundamentals
-- Learning modern UI structure & clean code practices
-
-🎯 Actively looking for frontend internship opportunities.
+I enjoy building responsive web applications and improving my skills by working on real projects. Currently, I mainly develop projects using HTML, CSS, JavaScript and PHP, while continuing to learn new technologies.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- PHP
+- SQL
+- Tailwind CSS
+- Git & GitHub
 
 ---
 
 ## 📂 Featured Projects
 
-### 🔹 Corporate Website (Freelance)
-Responsive multi-page company website  
-Tech: HTML, CSS, JavaScript  
-🔗 Live Demo: (add here)  
-📁 Repository: (add here)
+### 🔹 Ready Istanbul
+Corporate website developed for a VIP transfer company.
+
+**Technologies:** HTML, CSS, JavaScript, PHP, LocalStorage
+
+🌐 Live Demo: https://readyoristanbulv1.netlify.app/
+
+📁 Repository: (GitHub link)
 
 ---
 
-### 🔹 Todo App
-Task management app with add / delete / filter features  
-Tech: JavaScript (ES6), Local Storage  
-🔗 Live Demo: (add here)  
-📁 Repository: (add here)
+### 🔹 PhishGuard
+A web application that analyzes suspicious emails and URLs using rule-based risk analysis.
 
----
+**Technologies:** PHP, JavaScript, HTML, CSS, MySQL
 
-### 🔹 Personal Portfolio
-Modern portfolio with clean UI and animations  
-Tech: Tailwind CSS, JavaScript  
-🔗 Live Demo: (add here)  
-📁 Repository: (add here)
-
----
-
-## 💼 Why Hire Me?
-
-- Strong fundamentals in HTML, CSS and JavaScript
-- Clean and readable code structure
-- Fast learner & self-motivated
-- Detail-oriented in UI development
-- Open to feedback and teamwork
+📁 Repository: (GitHub link)
 
 ---
 
 ## 📫 Contact
 
-📧 emirhankptn09@gmail.com  
-🔗 https://linkedin.com/in/emirhankaptan
+📧 **emirhankptn09@gmail.com**
+
+🔗 **LinkedIn:** https://linkedin.com/in/emirhankaptan
