@@ -31,7 +31,7 @@ Corporate website developed for a VIP transfer company.
 
 🌐 Live Demo: https://readyoristanbulv1.netlify.app/
 
-📁 Repository: (GitHub link)
+📁 Repository: [(GitHub link)](https://github.com/emirhankaptandev/readyoristanbul)
 
 ---
 
@@ -40,7 +40,7 @@ A web application that analyzes suspicious emails and URLs using rule-based risk
 
 **Technologies:** PHP, JavaScript, HTML, CSS, MySQL
 
-📁 Repository: (GitHub link)
+📁 Repository: [(GitHub link)](https://github.com/emirhankaptandev/PhishGuard)
 
 ---
 
